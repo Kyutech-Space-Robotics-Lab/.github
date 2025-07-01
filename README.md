@@ -27,7 +27,7 @@ Our work is organized into several core research teams. If you are looking for a
 
 🛰️ Orbital-Casting Team (oc-)
 
-Pioneers in-space manufacturing techniques, focusing on casting materials in microgravity for large-scale orbital construction.
+Develops robotic systems for casting manipulation, in-space manufacturing, and the capture of orbital debris.
 
 🌕 Moon Team (moon-)
 
@@ -46,4 +46,4 @@ For Lab Members: Please review our detailed Contribution Guidelines to understan
 
 For External Collaborators: If you are interested in collaborating with us, please contact Professor Kenji Nagaoka at nagaoka.kenji572@mail.kyutech.jp.
 
-Find us at the <a href="http://www.mech.kyutech.ac.jp/srl/contact.html"> Kyushu Institute of Technology </a>.
+Find us at the <a href="http://www.mech.kyutech.ac.jp/srl/access.html"> Kyushu Institute of Technology </a>.
