@@ -18,7 +18,7 @@ To maintain a clear and scalable environment, we follow a few key organizational
 
 Repository Access: Access to repositories is managed through Teams. Members are added to specific teams and gain access only to that team's projects. Our default policy is No permission, so access must be granted explicitly.
 
-Repository Naming: All repositories follow a standard naming convention: [team-acronym]-[project-name] (e.g., cast-pipeline, haptics-firmware).
+Repository Naming: All repositories follow a standard naming convention: [team-acronym]-[project-name] (e.g., oc-pipeline, rover-nav).
 
 Contribution Workflow: All work should be done on feature branches. Changes are merged into the main branch via Pull Requests, which should be reviewed by at least one other team member.
 
@@ -44,6 +44,6 @@ Engineers climbing robots for inspection, maintenance, and assembly of space str
 Getting Started
 For Lab Members: Please review our detailed Contribution Guidelines to understand our workflow, coding standards, and best practices.
 
-For External Collaborators: If you are interested in collaborating with us, please contact Professor Kenji Nagaoka at [supervisor's-email@kyutech.ac.jp].
+For External Collaborators: If you are interested in collaborating with us, please contact Professor Kenji Nagaoka at nagaoka.kenji572@mail.kyutech.jp.
 
-Find us at the Kyushu Institute of Technology.
+Find us at the <a href="http://www.mech.kyutech.ac.jp/srl/index.html"> Kyushu Institute of Technology </a>.
