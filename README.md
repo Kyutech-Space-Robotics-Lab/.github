@@ -9,7 +9,7 @@ Kyushu Institute of Technology
 </p>
 </p>
 
-Welcome to the official GitHub organization for the [Your Lab's Name] at the Kyushu Institute of Technology. Our research focuses on [briefly state your lab's primary mission, e.g., advancing the state of space robotics through novel manipulation techniques, haptic feedback, and intelligent vision systems].
+Welcome to the official GitHub organization for the Space Robotics Laboratory at the Kyushu Institute of Technology. Space Robotics Lab. aims to produce robotics technology that allows to lead new frontiers in future space exploration. Space is a harsh and extreme environment that has a greater risk to humans, and thereby robotics technologies are necessary for space development. Space robotics and mechatronics can achieve more challenging missions, such as orbital service, lunar and planetary exploration, and space utilization, in addition to enhancement of a human activity. Such space robotics technologies will be able to apply to various ground applications in natural, extreme environments (defined as not artificial environments), such as disaster sites, active volcanoes, deep-sea, mountains, cliffs, or caves.
 
 This organization serves as the central hub for all source code, datasets, and project management related to our research.
 
@@ -25,34 +25,25 @@ Contribution Workflow: All work should be done on feature branches. Changes are 
 Our Research Teams
 Our work is organized into several core research teams. If you are looking for a specific project, please browse the repositories associated with the relevant team.
 
-🤖 Casting Manipulation Team (cast-)
+🛰️ Orbital-Casting Team (oc-)
 
-Focuses on developing algorithms and hardware for casting-based manipulation in microgravity environments.
+Pioneers in-space manufacturing techniques, focusing on casting materials in microgravity for large-scale orbital construction.
 
-🖐️ Haptics Team (haptics-)
+🌕 Moon Team (moon-)
 
-Researches and develops haptic feedback systems for intuitive teleoperation of robotic systems.
+Develops robotic systems and mission concepts for lunar surface exploration and resource utilization.
 
-👁️ Vision Systems Team (vision-)
+🚗 Rover Team (rover-)
 
-Builds computer vision models for object recognition, tracking, and scene understanding in complex environments.
+Designs and operates planetary rovers for exploration of extraterrestrial surfaces.
 
-... (Add other teams as needed)
+🧗 CLIMB Team (climb-)
+
+Engineers climbing robots for inspection, maintenance, and assembly of space structures and navigation of challenging terrains.
 
 Getting Started
 For Lab Members: Please review our detailed Contribution Guidelines to understand our workflow, coding standards, and best practices.
 
-For External Collaborators: If you are interested in collaborating with us, please contact Professor [Supervisor's Name] at [supervisor's-email@kyutech.ac.jp].
-
-Publications & Citable Code
-We are committed to reproducible research. Key publications and links to their associated code and data archives (with DOIs) are listed below.
-
-[Your Paper Title] (Journal, Year)
-
-Paper: [Link to paper DOI]
-
-Code/Data: [Link to Zenodo DOI]
-
-... (List other key papers)
+For External Collaborators: If you are interested in collaborating with us, please contact Professor Kenji Nagaoka at [supervisor's-email@kyutech.ac.jp].
 
 Find us at the Kyushu Institute of Technology.
