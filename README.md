@@ -1,7 +1,7 @@
 <p align="center">
 <!-- Optional: Add your lab's logo here. You'll need to upload the logo to a repository and link to the raw file. -->
 <!-- <img src="URL_TO_YOUR_LAB_LOGO.png" alt="Lab Logo" width="150"/> -->
-<h1 align="center">[Your Lab's Full Name]</h1>
+<h1 align="center">Space Robotics Laboratory</h1>
 <p align="center">
 Kyushu Institute of Technology
 <br />
@@ -46,4 +46,4 @@ For Lab Members: Please review our detailed Contribution Guidelines to understan
 
 For External Collaborators: If you are interested in collaborating with us, please contact Professor Kenji Nagaoka at nagaoka.kenji572@mail.kyutech.jp.
 
-Find us at the <a href="http://www.mech.kyutech.ac.jp/srl/index.html"> Kyushu Institute of Technology </a>.
+Find us at the <a href="http://www.mech.kyutech.ac.jp/srl/contact.html"> Kyushu Institute of Technology </a>.
