@@ -1,1 +1,58 @@
-<p align="center"><!-- Optional: Add your lab's logo here. You'll need to upload the logo to a repository and link to the raw file. --><!-- <img src="URL_TO_YOUR_LAB_LOGO.png" alt="Lab Logo" width="150"/> --><h1 align="center">[Your Lab's Full Name]</h1><p align="center">Kyushu Institute of Technology<br /><a href="[URL_TO_YOUR_LAB_WEBSITE]"><strong>Lab Website »</strong></a></p></p>Welcome to the official GitHub organization for the [Your Lab's Name] at the Kyushu Institute of Technology. Our research focuses on [briefly state your lab's primary mission, e.g., advancing the state of space robotics through novel manipulation techniques, haptic feedback, and intelligent vision systems].This organization serves as the central hub for all source code, datasets, and project management related to our research.How We Organize Our WorkTo maintain a clear and scalable environment, we follow a few key organizational principles:Repository Access: Access to repositories is managed through Teams. Members are added to specific teams and gain access only to that team's projects. Our default policy is No permission, so access must be granted explicitly.Repository Naming: All repositories follow a standard naming convention: [team-acronym]-[project-name] (e.g., cast-pipeline, haptics-firmware).Contribution Workflow: All work should be done on feature branches. Changes are merged into the main branch via Pull Requests, which should be reviewed by at least one other team member.Our Research TeamsOur work is organized into several core research teams. If you are looking for a specific project, please browse the repositories associated with the relevant team.🤖 Casting Manipulation Team (cast-)Focuses on developing algorithms and hardware for casting-based manipulation in microgravity environments.🖐️ Haptics Team (haptics-)Researches and develops haptic feedback systems for intuitive teleoperation of robotic systems.👁️ Vision Systems Team (vision-)Builds computer vision models for object recognition, tracking, and scene understanding in complex environments.... (Add other teams as needed)Getting StartedFor Lab Members: Please review our detailed Contribution Guidelines to understand our workflow, coding standards, and best practices.For External Collaborators: If you are interested in collaborating with us, please contact Professor [Supervisor's Name] at [supervisor's-email@kyutech.ac.jp].Publications & Citable CodeWe are committed to reproducible research. Key publications and links to their associated code and data archives (with DOIs) are listed below.[Your Paper Title] (Journal, Year)Paper: [Link to paper DOI]Code/Data: [Link to Zenodo DOI]... (List other key papers)Find us at the Kyushu Institute of Technology.
+<p align="center">
+<!-- Optional: Add your lab's logo here. You'll need to upload the logo to a repository and link to the raw file. -->
+<!-- <img src="URL_TO_YOUR_LAB_LOGO.png" alt="Lab Logo" width="150"/> -->
+<h1 align="center">[Your Lab's Full Name]</h1>
+<p align="center">
+Kyushu Institute of Technology
+<br />
+<a href="http://www.mech.kyutech.ac.jp/srl/index.html"><strong>Lab Website »</strong></a>
+</p>
+</p>
+
+Welcome to the official GitHub organization for the [Your Lab's Name] at the Kyushu Institute of Technology. Our research focuses on [briefly state your lab's primary mission, e.g., advancing the state of space robotics through novel manipulation techniques, haptic feedback, and intelligent vision systems].
+
+This organization serves as the central hub for all source code, datasets, and project management related to our research.
+
+How We Organize Our Work
+To maintain a clear and scalable environment, we follow a few key organizational principles:
+
+Repository Access: Access to repositories is managed through Teams. Members are added to specific teams and gain access only to that team's projects. Our default policy is No permission, so access must be granted explicitly.
+
+Repository Naming: All repositories follow a standard naming convention: [team-acronym]-[project-name] (e.g., cast-pipeline, haptics-firmware).
+
+Contribution Workflow: All work should be done on feature branches. Changes are merged into the main branch via Pull Requests, which should be reviewed by at least one other team member.
+
+Our Research Teams
+Our work is organized into several core research teams. If you are looking for a specific project, please browse the repositories associated with the relevant team.
+
+🤖 Casting Manipulation Team (cast-)
+
+Focuses on developing algorithms and hardware for casting-based manipulation in microgravity environments.
+
+🖐️ Haptics Team (haptics-)
+
+Researches and develops haptic feedback systems for intuitive teleoperation of robotic systems.
+
+👁️ Vision Systems Team (vision-)
+
+Builds computer vision models for object recognition, tracking, and scene understanding in complex environments.
+
+... (Add other teams as needed)
+
+Getting Started
+For Lab Members: Please review our detailed Contribution Guidelines to understand our workflow, coding standards, and best practices.
+
+For External Collaborators: If you are interested in collaborating with us, please contact Professor [Supervisor's Name] at [supervisor's-email@kyutech.ac.jp].
+
+Publications & Citable Code
+We are committed to reproducible research. Key publications and links to their associated code and data archives (with DOIs) are listed below.
+
+[Your Paper Title] (Journal, Year)
+
+Paper: [Link to paper DOI]
+
+Code/Data: [Link to Zenodo DOI]
+
+... (List other key papers)
+
+Find us at the Kyushu Institute of Technology.
