@@ -1,3 +1,4 @@
+<p align="center">
 <h1 align="center">Space Robotics Laboratory</h1>
 <p align="center">
 Kyushu Institute of Technology
@@ -6,7 +7,9 @@ Kyushu Institute of Technology
 </p>
 </p>
 
-Welcome to the official GitHub organization for the Space Robotics Laboratory at the Kyushu Institute of Technology. Space Robotics Lab. aims to produce robotics technology that allows to lead new frontiers in future space exploration. Space is a harsh and extreme environment that has a greater risk to humans, and thereby robotics technologies are necessary for space development. Space robotics and mechatronics can achieve more challenging missions, such as orbital service, lunar and planetary exploration, and space utilization, in addition to enhancement of a human activity. Such space robotics technologies will be able to apply to various ground applications in natural, extreme environments (defined as not artificial environments), such as disaster sites, active volcanoes, deep-sea, mountains, cliffs, or caves.
+Welcome to the official GitHub organization for the Space Robotics Laboratory at the Kyushu Institute of Technology. Our lab aims to produce robotics technology that allows us to lead new frontiers in future space exploration.
+
+Space is a harsh and extreme environment that has a greater risk to humans, and thereby robotics technologies are necessary for space development. Space robotics and mechatronics can achieve more challenging missions, such as orbital service, lunar and planetary exploration, and space utilization, in addition to the enhancement of human activity. Such space robotics technologies will be able to apply to various ground applications in natural, extreme environments (defined as not artificial environments), such as disaster sites, active volcanoes, deep-sea, mountains, cliffs, or caves.
 
 This organization serves as the central hub for all source code, datasets, and project management related to our research.
 
@@ -17,7 +20,7 @@ Repository Access: Access to repositories is managed through Teams. Members are 
 
 Repository Naming: All repositories follow a standard naming convention: [team-acronym]-[project-name] (e.g., oc-pipeline, rover-nav).
 
-Contribution Workflow: All work should be done on feature branches. Changes are merged into the main branch via Pull Requests, which should be reviewed by at least one other team member.
+Contribution Workflow: All work should be done on feature branches. Changes are merged into the main branch via Pull Requests, which must be reviewed by at least one other team member.
 
 Our Research Teams
 Our work is organized into several core research teams. If you are looking for a specific project, please browse the repositories associated with the relevant team.
@@ -39,7 +42,7 @@ Designs and operates planetary rovers for exploration of extraterrestrial surfac
 Engineers climbing robots for inspection, maintenance, and assembly of space structures and navigation of challenging terrains.
 
 Getting Started
-For Lab Members: Please review our detailed Contribution Guidelines to understand our workflow, coding standards, and best practices.
+For Lab Members: Please review our detailed [**Contribution Guidelines**](https://github.com/Kyutech-Space-Robotics-Lab/.github/blob/main/CONTRIBUTING.md) to understand our workflow, coding standards, and best practices.
 
 For External Collaborators: If you are interested in collaborating with us, please contact Professor Kenji Nagaoka at nagaoka.kenji572@mail.kyutech.jp.
 
