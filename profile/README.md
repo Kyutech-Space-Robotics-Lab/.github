@@ -46,4 +46,4 @@ For Lab Members: Please review our detailed [**Contribution Guidelines**](https:
 
 For External Collaborators: If you are interested in collaborating with us, please contact Professor Kenji Nagaoka at nagaoka.kenji572@mail.kyutech.jp.
 
-Find us at the <a href="http://www.mech.kyutech.ac.jp/srl/access.html"> Kyushu Institute of Technology </a>.
+Find us at the <a href="http://www.mech.kyutech.ac.jp/srl/access.html">Kyushu Institute of Technology</a>.
