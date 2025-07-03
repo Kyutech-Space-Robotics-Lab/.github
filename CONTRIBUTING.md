@@ -13,7 +13,7 @@ Thank you for your interest in contributing to our work! These guidelines are de
 5. [Issue Tracking](#issue-tracking)
 
 ## Code of Conduct
-All members of this organization are expected to adhere to our [Code of Conduct](link-to-your-CODE_OF_CONDUCT.md-file). Please ensure you have read and understood it.
+All members of this organization are expected to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). Please ensure you have read and understood it.
 
 ## Repository Naming Convention
 To ensure our organization remains easy to navigate, all new repositories **must** follow a strict naming convention:
