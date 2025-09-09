@@ -1,49 +1,24 @@
-<p align="center">
-<h1 align="center">Space Robotics Laboratory</h1>
-<p align="center">
-Kyushu Institute of Technology
-<br />
-<a href="http://www.mech.kyutech.ac.jp/srl/index.html"><strong>Lab Website »</strong></a>
-</p>
-</p>
+# Space Robotics Laboratory | Kyushu Institute of Technology
 
-Welcome to the official GitHub organization for the Space Robotics Laboratory at the Kyushu Institute of Technology. Our lab aims to produce robotics technology that allows us to lead new frontiers in future space exploration.
+Welcome to the official GitHub for the Kyutech Space Robotics Lab. Our work focuses on developing robotics technology for future space exploration and extreme environment applications on Earth.
 
-Space is a harsh and extreme environment that has a greater risk to humans, and thereby robotics technologies are necessary for space development. Space robotics and mechatronics can achieve more challenging missions, such as orbital service, lunar and planetary exploration, and space utilization, in addition to the enhancement of human activity. Such space robotics technologies will be able to apply to various ground applications in natural, extreme environments (defined as not artificial environments), such as disaster sites, active volcanoes, deep-sea, mountains, cliffs, or caves.
+[**Lab Website**](http://www.mech.kyutech.ac.jp/srl/index.html) | [**Contribution Guidelines**](https://github.com/Kyutech-Space-Robotics-Lab/.github/blob/main/CONTRIBUTING.md) | [**Contact**](mailto:nagaoka.kenji572@mail.kyutech.jp)
 
-This organization serves as the central hub for all source code, datasets, and project management related to our research.
+---
 
-How We Organize Our Work
-To maintain a clear and scalable environment, we follow a few key organizational principles:
+## Research Teams & Projects
 
-Repository Access: Access to repositories is managed through Teams. Members are added to specific teams and gain access only to that team's projects. Our default policy is No permission, so access must be granted explicitly.
+Our research is organized into the following core teams. Browse the repositories to find source code and datasets.
 
-Repository Naming: All repositories follow a standard naming convention: [team-acronym]-[project-name] (e.g., oc-pipeline, rover-nav).
+* **🛰️ Orbital-Casting (oc-)**: Robotic casting, in-space manufacturing, and debris capture.
+* **🌕 Moon (moon-)**: Lunar surface exploration and resource utilization systems.
+* **🚗 Rover (rover-)**: Planetary rovers for extraterrestrial surface exploration.
+* **🧗 CLIMB (climb-)**: Climbing robots for inspection and maintenance of space structures.
 
-Contribution Workflow: All work should be done on feature branches. Changes are merged into the main branch via Pull Requests, which must be reviewed by at least one other team member.
+---
 
-Our Research Teams
-Our work is organized into several core research teams. If you are looking for a specific project, please browse the repositories associated with the relevant team.
+## About Us
 
-🛰️ Orbital-Casting Team (oc-)
+The Space Robotics Laboratory aims to create technologies for challenging missions like orbital servicing, planetary exploration, and space utilization. These technologies are also applicable to terrestrial environments such as disaster sites, volcanoes, and deep-sea exploration.
 
-Develops robotic systems for casting manipulation, in-space manufacturing, and the capture of orbital debris.
-
-🌕 Moon Team (moon-)
-
-Develops robotic systems and mission concepts for lunar surface exploration and resource utilization.
-
-🚗 Rover Team (rover-)
-
-Designs and operates planetary rovers for exploration of extraterrestrial surfaces.
-
-🧗 CLIMB Team (climb-)
-
-Engineers climbing robots for inspection, maintenance, and assembly of space structures and navigation of challenging terrains.
-
-Getting Started
-For Lab Members: Please review our detailed [**Contribution Guidelines**](https://github.com/Kyutech-Space-Robotics-Lab/.github/blob/main/CONTRIBUTING.md) to understand our workflow, coding standards, and best practices.
-
-For External Collaborators: If you are interested in collaborating with us, please contact Professor Kenji Nagaoka at nagaoka.kenji572@mail.kyutech.jp.
-
-Find us at the <a href="http://www.mech.kyutech.ac.jp/srl/access.html">Kyushu Institute of Technology</a>.
+**For Lab Members**: Please review the [Contribution Guidelines](https://github.com/Kyutech-Space-Robotics-Lab/.github/blob/main/CONTRIBUTING.md) to understand our workflow. Repository access is managed via Teams, and repository names follow the `team-acronym-project-name` convention.
