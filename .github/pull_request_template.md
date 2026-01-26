@@ -1,31 +1,15 @@
-## Description
+# What does this change?
+*Short description of what was added or fixed (e.g., "Updated the end-effector mass properties in the URDF").*
 
-Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any new dependencies that are required for this change.
+# Why is this needed?
+*What problem does this solve? Reference an Issue number if applicable (e.g., Fixes #12).*
 
-Fixes # (issue)
+# How can I test it?
+1. Open the simulation in `Project Chrono`.
+2. Run `script_name.py`.
+3. Verify that [Result X] occurs.
 
-## Type of Change
-
-Please delete options that are not relevant.
-
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] This change requires a documentation update
-
-## How Has This Been Tested?
-
-Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration.
-
-- [ ] Test A
-- [ ] Test B
-
-## Checklist:
-
-- [ ] My code follows the style guidelines of this project (`flake8` passes)
-- [ ] I have performed a self-review of my own code
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to the documentation
-- [ ] My changes generate no new warnings
-- [ ] I have added tests that prove my fix is effective or that my feature works
-- [ ] New and existing unit tests pass locally with my changes
+# Quick Checklist
+- [ ] The code runs without errors on my machine.
+- [ ] I have added comments to explain complex math or logic.
+- [ ] This update is ready to be merged.
