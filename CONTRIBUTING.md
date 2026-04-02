@@ -23,10 +23,11 @@ To ensure our organization remains easy to navigate, all new repositories **must
 Please use lowercase letters, numbers, and hyphens only.
 
 **Official Team Acronyms:**
-* `oc-` (Orbital-Casting Team)
-* `moon-` (Moon Team)
+* `casting-` (Casting Team)
+* `orbital-` (Orbital Team)
 * `rover-` (Rover Team)
-* `climb-` (CLIMB Team)
+* `terramech-` (Terramechanics Team)
+* `climb-` (Free-Climbing Team)
 
 **Example:** A new project for the Rover team to test wheel designs should be named `rover-wheel-test-rig`.
 
