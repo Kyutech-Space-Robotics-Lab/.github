@@ -39,19 +39,19 @@ We use a simple, branch-based workflow to manage contributions. The `main` branc
 2.  Create a new branch for every new feature, bug fix, or experiment.
 3.  Follow this naming convention for your branches:
     `[team-acronym]/feature/[short-description-of-work]`
-    - **Good:** `oc/feature/add-debris-capture-simulation`
+    - **Good:** `orbital/feature/add-debris-capture-simulation`
     - **Good:** `rover/feature/fix-pathfinding-bug`
     - **Bad:** `my-branch`, `fix`
 
     You can create a new branch locally with:
     ```bash
-    git checkout -b oc/feature/my-new-feature
+    git checkout -b orbital/feature/my-new-feature
     ```
 
 ### Making Commits
 - **Commit frequently:** Make small, logical commits. This makes your changes easier to review.
 - **Write clear commit messages:** We follow a conventional commit style. Your message should have a type, a scope (the project), and a clear subject.
-    - `feat(oc-pipeline): Add new kalman filter for state estimation`
+    - `feat(orbital-pipeline): Add new kalman filter for state estimation`
     - `fix(rover-nav): Correct odometry calculation error`
     - `docs(haptics-firmware): Update README with setup instructions`
 
