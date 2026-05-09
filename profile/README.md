@@ -10,11 +10,11 @@ Welcome to the official GitHub for the Kyutech Space Robotics Lab. Our work focu
 
 Our research is organized into the following core teams. Browse the repositories to find source code and datasets.
 
-* **🛰️ Casting (casting-)**: Robotic casting, in-space manufacturing, and debris capture.
-* **🌕 Orbital (orbital-)**: Lunar surface exploration and resource utilization systems.
+* **🛰️ Casting (casting-)**: Robotic casting.
+* **🌕 Orbital (orbital-)**: in-space manufacturing, and debris capture.
 * **🚗 Rover (rover-)**: Planetary rovers for extraterrestrial surface exploration.
 * **🧗 CLIMB (climb-)**: Climbing robots for inspection and maintenance of space structures.
-* ** Terramech (terramech-)**:
+* **🚜 Terramech (terramech-)**: Soil-tool interaction and planetary surface mobility mechanics.
 
 ---
 
