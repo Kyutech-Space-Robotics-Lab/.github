@@ -14,7 +14,6 @@ Our research is organized into the following core teams. Browse the repositories
 * **🌕 Orbital (orbital-)**: in-space manufacturing, and debris capture.
 * **🚗 Rover (rover-)**: Planetary rovers for extraterrestrial surface exploration.
 * **🧗 CLIMB (climb-)**: Climbing robots for inspection and maintenance of space structures.
-* **🚜 Terramech (terramech-)**: Soil-tool interaction and planetary surface mobility mechanics.
 
 ---
 
